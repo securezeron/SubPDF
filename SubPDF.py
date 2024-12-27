@@ -308,9 +308,11 @@ def format_domains(result_dict):
 def main():
     parser = argparse.ArgumentParser(
         description=(
-            "CLI tool that processes URLs/PDFs in a multi-threaded fashion. "
-            "If no --debug is given, displays a progress bar for status updates. "
-            "If --debug is given, shows detailed logs."
+            """SubPDF is a powerful and user-friendly command-line tool that efficiently extracts domains and subdomains from PDF files. 
+            Designed for cybersecurity professionals, data analysts, and document managers, SubPDF leverages multi-threaded processing 
+            to handle large volumes of PDFs quickly. It supports various input sources, customizable output formats, and provides 
+            detailed logging options, ensuring a seamless and flexible experience.
+            """
         )
     )
     # Input sources
