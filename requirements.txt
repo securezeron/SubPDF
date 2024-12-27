@@ -1,0 +1,6 @@
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+PyPDF2>=3.0.0
+tldextract>=3.1.0
+tqdm>=4.60.0
+colorama>=0.4.4
