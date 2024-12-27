@@ -326,7 +326,7 @@ Distributed under the [MIT License](LICENSE).
 
 ## 📞 **Contact**
 
-**Your Name**  
+**Suman Chakraborty**  
 Email: [suman@zeron.one](mailto:suman@zeron.one)  
 LinkedIn: [linkedin.com/in/suman-chakraborty-b857901b1](https://www.linkedin.com/in/suman-chakraborty-b857901b1)  
 GitHub: [github.com/suman-zeron](https://github.com/suman-zeron)
@@ -344,5 +344,8 @@ GitHub: [github.com/suman-zeron](https://github.com/suman-zeron)
 - [tqdm](https://tqdm.github.io/)
 - [Choose a License](https://choosealicense.com)
 - [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+
+---
+Made with ❤️ by Suman@ZERON
 
 ---
